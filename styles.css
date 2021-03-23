@@ -21,6 +21,19 @@ body {
 }
 
 img {
-  max-width: 75%;
+  max-width: 50%;
   border-radius: 10px;
+}
+
+.about-me main {
+  flex: 1;
+}
+
+.about-me aside {
+  width: 310px;
+  margin-left: 1rem;
+  margin-top: 6.3rem;
+  border-radius: 10px;
+
+  background-color: #160e77;
 }
